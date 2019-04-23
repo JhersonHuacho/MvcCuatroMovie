@@ -10,3 +10,12 @@ La Vista, a continuación, muestra los datos como HTML al usuario.
 
 https://weblogs.asp.net/scottgu/introducing-razor
 
+03. Agregar un modelo
+
+https://docs.microsoft.com/es-es/ef/
+https://docs.microsoft.com/es-es/ef/ef6/
+
+<add name="MovieDBContext" 
+   connectionString="Data Source=(LocalDB)\v11.0;AttachDbFilename=|DataDirectory|\Movies.mdf;Integrated Security=True" 
+   providerName="System.Data.SqlClient" 
+/>
