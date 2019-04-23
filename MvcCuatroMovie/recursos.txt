@@ -1,0 +1,12 @@
+﻿01. Agregar un controlador
+
+https://odetocode.com/Blogs/scott/archive/2009/04/27/6-tips-for-asp-net-mvc-model-binding.aspx
+
+02. Agregar un vista
+
+Ahora los datos se toman de la dirección URL y pasa al controlador mediante el model binder (enlazador de modelos).
+El controlador empaqueta los datos en un objeto ViewBag y pasa ese objeto a la Vista.
+La Vista, a continuación, muestra los datos como HTML al usuario.
+
+https://weblogs.asp.net/scottgu/introducing-razor
+
